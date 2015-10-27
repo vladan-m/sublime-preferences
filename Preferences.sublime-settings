@@ -1,0 +1,66 @@
+{
+	// Colors
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"theme": "Soda Dark 3.sublime-theme",
+	"soda_classic_tabs": true,
+
+	// Font
+	"font_face": "Menlo",
+	"font_size": 14,
+
+	// Cursor style - no blinking and slightly wider than default
+	"caret_style": "solid",
+	"wide_caret": true,
+
+	// Editor view look-and-feel
+	"bold_folder_labels": true,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"line_numbers": true,
+	"margin": 0,
+	"show_line_endings": true,
+
+	// Editor behavior
+	"always_show_minimap_viewport": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"word_separators": "./\\()\"':,.;<>;~!@#$%^&*|+=[]{}-`~?",
+	"index_files": true,
+	"find_selected_text": true,
+
+	// Word wrapping
+	"rulers": [80, 120],
+	"word_wrap": true,
+
+	// Whitespace - no tabs, trimming, end files with \n
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"tab_size": 2,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+
+	"extra_file_exclude_patterns": [
+		"*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj",
+		"*.o", "*.a", "*.lib", "*.so", "*.dylib",
+		"*.ncb", "*.sdf", "*.suo", "*.pdb", "*.pid",
+		"*.idb", ".DS_Store", "*.class", "*.psd", "*.db"
+	],
+	"extra_folder_exclude_patterns": [
+		".svn", ".git", ".sass-cache", "__pycache__",
+		"env", "env3", ".DS_Store", "log", "tmp",
+		"node_modules"
+	],
+	"file_exclude_patterns": [
+		"*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj",
+		"*.o", "*.a", "*.lib", "*.so", "*.dylib",
+		"*.ncb", "*.sdf", "*.suo", "*.pdb", "*.pid",
+		"*.idb", ".DS_Store", "*.class", "*.psd", "*.db"
+	],
+	"folder_exclude_patterns": [
+		".svn", ".git", ".sass-cache", "__pycache__",
+		"env", "env3", ".DS_Store", "log", "tmp",
+		"node_modules"
+	],
+	"ignored_packages":	["Vintage"]
+}

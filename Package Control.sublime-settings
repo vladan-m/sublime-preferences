@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Dracula Color Scheme",
+		"GitGutter-Edge",
+		"Handlebars",
+		"HTML Mustache",
+		"Markdown Preview",
+		"Package Control",
+		"Sass",
+		"Syntax Highlighting for Sass",
+		"Theme - Soda"
+	]
+}
