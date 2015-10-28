@@ -12,9 +12,14 @@ This is my Sublime Text 3 configuration and list of installed packages with thei
 4. Paste `Preferences.sublime-settings` file into `[root]/Library/Application Support/Sublime Text 3/Packages/User/` folder.
 5. Re-open Sublime Text 3 again. All packages should be installed and Sublime Text 3 should be configured based on config file. You are ready to write a code. :)
 
+Use instructions for Sublime Text 3 to [install Package Control](https://packagecontrol.io/installation).
+
 You can add custom icon for Sublime Text 3 [here](https://dribbble.com/shots/1582459-Sublime-Text-Icon-for-Yosemite).
 
-Use instructions for Sublime Text 3 to [install Package Control](https://packagecontrol.io/installation).
+Install the `subl` command line tool. Open Terminal and run this (Assuming `~/bin` is in your path):
+```shell
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
 
 #### Packages list:
 
