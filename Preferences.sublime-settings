@@ -60,7 +60,7 @@
 	"folder_exclude_patterns": [
 		".svn", ".git", ".sass-cache", "__pycache__",
 		"env", "env3", ".DS_Store", "log", "tmp",
-		"node_modules"
+		"node_modules", "/Users/vladanmitevski/dev/repo/ggrc-core/src/ggrc/static/.webassets-cache"
 	],
 	"ignored_packages":	["Vintage"]
 }
