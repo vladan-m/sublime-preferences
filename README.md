@@ -25,10 +25,13 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/sub
 
 - [Better CoffeeScript](https://packagecontrol.io/packages/Better%20CoffeeScript)
 - [Dracula Color Scheme](https://packagecontrol.io/packages/Dracula%20Color%20Scheme)
+- [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
 - [GitGutter-Edge](https://packagecontrol.io/packages/GitGutter-Edge)
 - [Handlebars](https://packagecontrol.io/packages/Handlebars)
 - [HTML Mustache](https://packagecontrol.io/packages/HTML%20Mustache)
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Sass](https://packagecontrol.io/packages/Sass)
+- [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+- [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
 - [Syntax Highlighting for Sass](https://packagecontrol.io/packages/Syntax%20Highlighting%20for%20Sass)
 - [Theme - Soda](https://packagecontrol.io/packages/Theme%20-%20Soda)
