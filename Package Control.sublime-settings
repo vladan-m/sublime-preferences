@@ -5,18 +5,22 @@
   ],
   "installed_packages":
   [
+    "Angular2 HTML Syntax",
     "Better CoffeeScript",
     "Dracula Color Scheme",
     "EditorConfig",
-    "GitGutter-Edge",
+    "GitGutter",
     "Handlebars",
     "HTML Mustache",
     "Markdown Preview",
     "Package Control",
+    "Ruby Slim",
     "Sass",
     "SublimeLinter",
     "SublimeLinter-contrib-eslint",
     "Syntax Highlighting for Sass",
-    "Theme - Soda"
+    "Theme - Soda",
+    "TOML",
+    "TypeScript"
   ]
 }
